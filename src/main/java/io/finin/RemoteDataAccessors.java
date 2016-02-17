@@ -34,6 +34,7 @@ public class RemoteDataAccessors {
         }
       }
     }
+    // TODO : Lancer une RuntimeException pour préciser les conflits
   }
 
   /**

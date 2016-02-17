@@ -9,7 +9,7 @@ import io.finin.Selector;
 import io.finin.Session;
 import io.finin.Updater;
 
-public class TalkativeRDA implements RemoteDataAccessor {
+public abstract class TalkativeRDA implements RemoteDataAccessor {
 
   private String type;
 
